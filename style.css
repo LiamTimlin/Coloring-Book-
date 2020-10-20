@@ -1,0 +1,53 @@
+body{
+    margin: 0 auto;
+    background-color: #f8f7ff;
+   padding: 1%;
+   background-color: #077187;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    color: red;
+}
+
+h2{
+    color: orange;
+}
+
+h3{
+    color: yellow;
+}
+
+h4{
+    color: green;
+}
+
+h5{
+    color: blue;
+}
+
+h6{
+    color: indigo;
+}
+
+/* h1, h2, h3, h4, h5, h6{
+    background-color:#DCE0D9;
+} */
+
+.colourBlock{
+    margin: auto;
+  width: 50%;
+    padding: 5px;
+    text-align: center;
+    width: 25%;
+    background-color:#DCE0D9;
+    border-radius: 2%;
+    box-shadow: 10px 4px 21px -9px rgba(0,0,0,0.75);
+}
+
+p{
+    margin: auto;
+    width: 50%;
+    /* background-color: white; */
+    
+}
